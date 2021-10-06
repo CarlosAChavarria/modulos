@@ -1,0 +1,8 @@
+7
+47C:\Users\Beto\Desktop\p-generation\modulos\dist132778359407298217 1
+53C:\Users\Beto\Desktop\p-generation\modulos\index.html132778358296411408 0
+50C:\Users\Beto\Desktop\p-generation\modulos\main.js132778359570355665 0
+58C:\Users\Beto\Desktop\p-generation\modulos\dist\index.html132778358322928685 0
+57C:\Users\Beto\Desktop\p-generation\modulos\operaciones.js132778359405032163 0
+69C:\Users\Beto\Desktop\p-generation\modulos\dist\index.6b9ca3e8.js.map132778359407228217 0
+65C:\Users\Beto\Desktop\p-generation\modulos\dist\index.6b9ca3e8.js132778359407108178 0
